@@ -3,7 +3,7 @@
 ### Hi there 👋, I am MD. SAYED ANOWER RANA
 #### React Developer
 
-I am a professional React Developer. I support the development of any eye-catching website. I create a Frontend website. I have two years of practical experience in building front-end websites. 
+I am a professional React Developer. I support the development of any eye-catching website. I create a Frontend website. I have one year of practical experience in building front-end websites. 
 
 I know about HTML, CSS, react, javascript, MongoDB, node.Js
 
