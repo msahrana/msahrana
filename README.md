@@ -22,6 +22,7 @@ I am a professional React Developer. I support the development of any eye-catchi
 ## 👀 My Overview:
 - 🔭 I’m currently working on GitHub <br/>
 - 🌱 I’m currently learning JavaScript <br/>
+- 🌱 I’m currently learning TypeScript <br/>
 - 💬 Ask me about React Developer 
 
 ## 📫 Social Media:
